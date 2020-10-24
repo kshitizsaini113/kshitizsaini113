@@ -1,6 +1,6 @@
 ## Hey there! I'm Kshitiz.
 
-<br>
+![Counter](https://profile-counter.glitch.me/kshitizsaini113/count.svg)
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
@@ -10,7 +10,6 @@
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Big Data.
 - ✍️ &nbsp; Co-Founder at @dotquestionmark.
 
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
