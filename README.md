@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science with specialization in DevOps at University of Petroleum and Energy Studies.
 - 💼 &nbsp; Actively looking for a summer internship opportuinity.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Big Data.
-- ✍️ &nbsp; Co-Founder at @dotquestionmark.
+- ✍️ &nbsp; Co-Founder at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -41,8 +41,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) -->
-  <!-- ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible) -->
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
   <!-- ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) -->
   <!-- ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) -->
   <!-- ![Puppet](https://img.shields.io/badge/-Puppet-333333?style=flat&logo=puppet) -->
