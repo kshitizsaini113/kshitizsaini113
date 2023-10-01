@@ -5,9 +5,9 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science with specialization in DevOps at University of Petroleum and Energy Studies.
-- 💼 &nbsp; Actively looking for a summer internship opportuinity.
-- 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Big Data.
+- 🎓 &nbsp; Working as a Full Stack Developer @ Barclays
+- 💼 &nbsp; Skilled in Java, Spring Boot, Hibernate, SQL.
+- 🌱 &nbsp; Learning more Cloud Technologies and DevOps.
 - ✍️ &nbsp; Co-Founder at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
 
 <br>
