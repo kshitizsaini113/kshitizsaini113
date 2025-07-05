@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Working as a Full Stack Developer @ Barclays
 - 💼 &nbsp; Skilled in Java, Spring Boot, Hibernate, SQL.
 - 🌱 &nbsp; Learning more Cloud Technologies and DevOps.
-- ✍️ &nbsp; Co-Founder at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
 
 <br>
 <a href="https://github.com/kshitizsaini113">
